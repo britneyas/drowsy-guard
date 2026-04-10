@@ -1,11 +1,5 @@
 # Drowsiness Detection System
-
-![image](https://github.com/user-attachments/assets/81ab2ce9-94ed-479b-bb76-d289c99800fc)
-![image](https://github.com/user-attachments/assets/0615e219-f623-47ff-9448-946a9c273500)
-![image](https://github.com/user-attachments/assets/b25705ed-d976-45a3-a080-fe1e12f220fd)
-
 ## Overview
-
 The **Drowsiness Detection System** is a project designed to monitor a person's alertness in real-time by analyzing facial features.  
 By utilizing computer vision and machine learning techniques, the system aims to detect signs of drowsiness and provide timely alerts — particularly useful for applications like driver monitoring.
 
@@ -120,9 +114,3 @@ We appreciate any feedback and contributions to improve the system.
 - **Multi-Person Detection:** Extend detection to multiple subjects simultaneously.
 - **Mobile Deployment:** Create a mobile app version for real-time on-the-go monitoring.
 
----
-
-**Eng. Tyrone Eduardo Rodriguez Motato**  
-Computer Vision Engineer  
-Guayaquil, Ecuador  
-Email: tyrerodr@hotmail.com
