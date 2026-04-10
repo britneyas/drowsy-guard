@@ -113,4 +113,6 @@ We appreciate any feedback and contributions to improve the system.
 - **Integration with Wearables:** Add heart rate or other vitals monitoring.
 - **Multi-Person Detection:** Extend detection to multiple subjects simultaneously.
 - **Mobile Deployment:** Create a mobile app version for real-time on-the-go monitoring.
+---
+## Reference: https://github.com/tyrerodr/real-time-drowsy-driving-detection 
 
